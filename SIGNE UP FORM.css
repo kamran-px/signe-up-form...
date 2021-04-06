@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    line-height: 60px;
+    word-spacing: 10px;
+    color: #d2dae2;
+    background-color: #0fbcf9;
+    text-shadow: 2px 1px #485460;
+    font-style: oblique;
+    padding: 50px;
+}
+body{
+    background-color: #f0932b;
+    padding: 150px;
+    list-style: ;
+    line-height: 60px;
+    color: black;
+}
+
+footer{
+    text-align: center;
+    background-color:  #0fbcf9;
+    text-shadow: 2px 1px #485460;
+    padding: 20px;
+    word-spacing: 40px;
+}
